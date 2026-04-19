@@ -3,4 +3,10 @@ Esta es mi segunda línea.
 Estoy trabajando en la rama nueva-función. 
 Agrego un saludo desde la nueva tarea. 
 Agrego una despedida desde la nueva tarea. 
+--- Información extra ---
+Esta es una sección adicional para practicar.
+Trabajo en progreso que todavía no quiero commitear. 
+Prueba de stash.
+Estoy trabajando en una nueva funcionalidad. 
+Arreglo urgente en Main.
 
